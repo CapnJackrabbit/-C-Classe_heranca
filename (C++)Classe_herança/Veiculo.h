@@ -10,7 +10,7 @@ public:
 
 	Veiculo()
 	{
-		cout << "Veículo construído (Veículo)\n\n";
+		//cout << "Veículo construído (Veículo)\n\n";
 	}
 
 	void ligar()
